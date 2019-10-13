@@ -8,5 +8,5 @@ Our vision for this project is to build a web repository based on images collect
 - We will also target two specific audiences by disease area: (1) Malaria and (2) Leishmaniasis.
 
 ## More information
-If you would like to know more about this initiative, please fill the (form)[https://docs.google.com/forms/d/e/1FAIpQLSd98Ko_Gh7JWZw-nicq_RPlGNxSMbyDe2EEQGRxko4RXcJnXQ/viewform] 
+If you would like to know more about this initiative, please fill the [form](https://docs.google.com/forms/d/e/1FAIpQLSd98Ko_Gh7JWZw-nicq_RPlGNxSMbyDe2EEQGRxko4RXcJnXQ/viewform)
 
